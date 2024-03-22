@@ -23,3 +23,9 @@ There will be 3 portions of this project:
     - This can be heavily expanded upon with different congressmen/women and trading ideas.
 - 3: 
     - Creating an index to mimic those trades and then test on composer.trade
+    
+
+
+
+Current:
+    fetch.py to grab data from congressstockwatcher is obsolete. Need a new source somewhere. They have data from 2012 to 2023.
